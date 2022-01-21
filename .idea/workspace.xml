@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2f2d2a0-92dc-4a9a-8dec-0bbaa1b65266" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/02-django.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/5/6/5672f685b93c26153a807ef6a52ff2a42f198564" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/7/6/769aa6664d3e5c284cbfb95fd9848a351a2e4e2b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../account/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../account/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../account/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../account/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../account/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../account/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../account/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/controllers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/migrations/0002_layth_name.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/migrations/0003_taha.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/migrations/0004_auto_20211105_1215.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/migrations/0005_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/schemas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../commerce/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../config/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../requirements.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="215XWWToTlzULmFRpRhCoYp5Y5W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2f2d2a0-92dc-4a9a-8dec-0bbaa1b65266" name="Changes" comment="" />
+      <created>1637231961123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637231961123</updated>
+      <workItem from="1637231965719" duration="661000" />
+      <workItem from="1638388601965" duration="173000" />
+      <workItem from="1638433014390" duration="665000" />
+      <workItem from="1641725086396" duration="4329000" />
+      <workItem from="1641752311036" duration="6533000" />
+      <workItem from="1642577512105" duration="1809000" />
+      <workItem from="1642581411876" duration="5022000" />
+      <workItem from="1642713677701" duration="318000" />
+      <workItem from="1642756251741" duration="1240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
